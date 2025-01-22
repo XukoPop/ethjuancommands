@@ -1,4 +1,5 @@
 import React from 'react';
+import './index.css';
 import { Command } from 'lucide-react';
 
 const CommandList = () => {
