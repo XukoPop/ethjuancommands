@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ethjuancommands/static/css/main.397b2038.css",
-    "main.js": "/ethjuancommands/static/js/main.86016234.js",
+    "main.css": "/ethjuancommands/static/css/main.5e93a22d.css",
+    "main.js": "/ethjuancommands/static/js/main.2967199c.js",
     "index.html": "/ethjuancommands/index.html",
-    "main.397b2038.css.map": "/ethjuancommands/static/css/main.397b2038.css.map",
-    "main.86016234.js.map": "/ethjuancommands/static/js/main.86016234.js.map"
+    "main.5e93a22d.css.map": "/ethjuancommands/static/css/main.5e93a22d.css.map",
+    "main.2967199c.js.map": "/ethjuancommands/static/js/main.2967199c.js.map"
   },
   "entrypoints": [
-    "static/css/main.397b2038.css",
-    "static/js/main.86016234.js"
+    "static/css/main.5e93a22d.css",
+    "static/js/main.2967199c.js"
   ]
 }
